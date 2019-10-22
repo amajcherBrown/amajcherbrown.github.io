@@ -1,4 +1,4 @@
-# Brown University Records Management Program
+Brown University Records Management Program
 
 **Bold**
 
